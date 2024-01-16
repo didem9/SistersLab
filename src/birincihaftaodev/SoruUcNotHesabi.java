@@ -1,4 +1,4 @@
-package BirinciHaftaOdev;
+package birincihaftaodev;
 
 import java.util.Scanner;
 
